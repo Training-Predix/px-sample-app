@@ -10,7 +10,7 @@ var url = require('url');
 var express = require('express');
 var expressProxy = require('express-http-proxy');
 var HttpsProxyAgent = require('https-proxy-agent');
-var predixConfig = require('../predix-config');
+var predixConfig = require('./predix-config');
 var router = express.Router();
 var vcapServices = {};
 
