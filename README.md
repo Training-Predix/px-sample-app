@@ -2,13 +2,6 @@
 
 ## Getting Started
 
-### Get the source code
-Make a directory for your project.  Clone or download and extract the seed in that directory.
-```
-git clone https://github.com/PredixDev/px-sample-app.git  
-cd px-sample-app
-```
-
 ### Install tools
 If you don't have them already, you'll need node, bower and gulp to be installed globally on your machine.  
 
