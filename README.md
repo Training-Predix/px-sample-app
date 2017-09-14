@@ -20,6 +20,10 @@ The default gulp task will start a local web server.  Just run this command:
 ```
 gulp serve
 ```
+or
+```
+npm start
+```
 
 ## Running in Predix Cloud
 With a few commands you can build a distribution version of the app, and deploy it to the cloud.
