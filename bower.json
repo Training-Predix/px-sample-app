@@ -39,6 +39,7 @@
     "px-actionable-design": "^2.0.4"
   },
   "resolutions": {
-    "webcomponentsjs": "^0.7.0"
+    "webcomponentsjs": "^0.7.0",
+    "px-overlay": "^2.0.0"
   }
 }
