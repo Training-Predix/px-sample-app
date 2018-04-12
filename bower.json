@@ -40,6 +40,9 @@
   },
   "resolutions": {
     "webcomponentsjs": "^0.7.0",
-    "px-overlay": "^2.0.0"
+    "px-overlay": "^2.0.0",
+    "px-d3-imports": "^2.0.0",
+    "px-vis": "^4.6.0",
+    "pxd3": "^4.7.0"
   }
 }
